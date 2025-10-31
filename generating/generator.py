@@ -387,7 +387,7 @@ df['userId'] = 'ff210a03-d01e-49a5-9050-284d1d94490a'
 
 df['createdAt'] = datetime.now()
 
-df.to_csv('yachts_data_filled.csv')
+# df.to_csv('yachts_data_filled.csv')
 
 # print(df.isna().sum())
 
